@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/valentin/Programmation 3D/TP4-TP5/template",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
